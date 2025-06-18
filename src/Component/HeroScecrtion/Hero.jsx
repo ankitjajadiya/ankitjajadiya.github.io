@@ -54,7 +54,7 @@ const Hero = () => {
             <div className="relative bg-gradient-to-br from-gray-800 to-gray-900 p-8 rounded-2xl border border-gray-700 shadow-2xl">
               <div className="w-100 h-100   rounded-full overflow-hidden shadow-inner border-4 border-gray-700">
                 <img
-                  src="/src/assets/ankit_jajadiya.jpg"
+                  src="https://raw.githubusercontent.com/ankitjajadiya/ankitjajadiya.github.io/refs/heads/main/src/assets/ankit_jajadiya.jpg"
                   alt="Ankit"
                   className="w-full h-full object-cover"
                 />
